@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Karol</h1>
 <h3>A passionate frontend developer from Poland.</h3>
 
-👨‍💻 Some of my projects are available at [krychkarol.pl](krychkarol.pl)
+👨‍💻 Some of my projects are available at [krychkarol.pl](https://krychkarol.pl/)
 
 📫 How to reach me **krych.karol.93@gmail.com**
 
